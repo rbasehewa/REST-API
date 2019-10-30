@@ -1,9 +1,8 @@
 # REST-API
 This repo is building a rest api using PHP in Laravel. 
-# SoNET code 
 
 ## Source Code Documentation
-This is a test API project based on SoNET Systems which user can check the list by name and code, create , update and delete the exam information.
+This is a test API project based on simple API which user can check the list by name and code, create , update and delete the exam information.
 
 * CREATE
 * UPDATE
